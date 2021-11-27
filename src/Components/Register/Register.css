@@ -1,0 +1,33 @@
+.reg{
+    padding: 0.6rem 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border: 2px solid transparent;
+    outline: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all .6s ease;
+    margin: 0 12px;
+}
+.reg-btn{
+    margin: 50px;
+    background: red;
+    border-radius: 50px;
+    color:white;
+}
+.reg-btn:hover{
+    background:transparent;
+    border-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+.register{
+    padding: 20px 150px;
+}
+.register h3{
+text-transform: uppercase;
+}
+@media only screen and (max-width:769px){
+    .register{
+        padding: 20px 10px;
+    }
+}

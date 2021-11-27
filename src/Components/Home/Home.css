@@ -1,0 +1,23 @@
+.slider-img{
+    width: 100%;
+    max-height: 400px;
+}
+.about-us{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 50px;
+    padding-top: 80px;
+  }
+
+  
+  .about-col{
+    float: right;
+    flex-basis: 48%;
+    padding: 30px 2px;
+  
+  }
+  .about-col p{
+      margin: 3px 30px;
+text-align: justify;
+  
+  }

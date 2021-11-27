@@ -1,0 +1,54 @@
+.login{
+    padding: 0.6rem 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border: 2px solid transparent;
+    outline: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all .6s ease;
+    margin: 0 2px;
+}
+.login-btn{
+    margin: 50px;
+    background: red;
+    border-radius: 5px;
+    color:white;
+}
+.login-btn:hover{
+    background:transparent;
+    border-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.LoginFrom h3{
+text-transform: uppercase;
+}
+.google{
+    padding: 0.6rem 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border: 2px solid transparent;
+    outline: none;
+    cursor: pointer;
+    margin: 50px;
+    background: rgb(0, 0, 0);
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;
+    transition: all .6s ease;
+    margin: 0 2px;
+}
+.google:hover{
+    background:transparent;
+    border-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+.LoginFrom{
+    padding: 20px 150px;
+}
+@media only screen and (max-width:769px){
+    .LoginFrom{
+        padding: 20px 10px;
+    }
+}

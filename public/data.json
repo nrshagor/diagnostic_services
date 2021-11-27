@@ -1,0 +1,44 @@
+[
+    {
+        "key": "0001",
+        "Services_Name": "Cardio Monitoring",
+        "Services_Price": 2000,
+        "Description": "These cases are perfectly simple and easy to distinguish a free hour when our power",
+        "img": "https://html.modernwebtemplates.com/valeo/images/cardio.png"
+    },
+    {
+        "key": "0002",
+        "Services_Name": "Medical Treatment",
+        "Services_Price": 3000,
+        "Description": "Fusce pellentesque lectus quis placerat ultrices malesuada est vitae urna laoreet porta",
+        "img": "https://html.modernwebtemplates.com/valeo/images/medical.png"
+    },
+    {
+        "key": "0003",
+        "Services_Name": "Emergency Help",
+        "Services_Price": 4000,
+        "Description": "Donec cursus tellus libero, non porttitor felis desluctus ut justo non odio molestie",
+        "img": "https://html.modernwebtemplates.com/valeo/images/emergency.png"
+    },
+    {
+        "key": "0004",
+        "Services_Name": "Symptom Check",
+        "Services_Price": 3500,
+        "Description": "Mauris consectetur dui eget ullamcorper mehendrerit eros ligula consectetur",
+        "img": "https://html.modernwebtemplates.com/valeo/images/symptom.png"
+    },
+    {
+        "key": "0005",
+        "Services_Name": "Laboratory Test",
+        "Services_Price": 4000,
+        "Description": "Pellentesque facilisis.sollicitudin justo non odio molestie, sed venenatis elit laoreet",
+        "img": "https://html.modernwebtemplates.com/valeo/images/laboratory.png"
+    },
+    {
+        "key": "0006",
+        "Services_Name": "General Analysis",
+        "Services_Price": 3600,
+        "Description": "Morbi sollicitudin justo non odio molestie sed venenatis elit laoreeh",
+        "img": "https://html.modernwebtemplates.com/valeo/images/general.png"
+    }
+]
